@@ -1,4 +1,5 @@
 # ejemplo01 <br>
 ## titulo 2 <br>
-Nombre: Rudy Estuardo Macz Juc  <br>
-Clave: 13
+Nombre: <br> Rudy Estuardo Macz Juc<br>
+Clave: <br>13<br>
+
